@@ -1,0 +1,2 @@
+This file documents the basic overheating alarm feature.
+Created in feature/basic-alarm branch.
